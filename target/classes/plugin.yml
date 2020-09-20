@@ -1,0 +1,7 @@
+name: Test
+version: 1.0-SNAPSHOT
+main: me.klopstock.test.Test
+api-version: "1.16"
+commands:
+  start:
+    description: start Game

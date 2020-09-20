@@ -1,0 +1,5 @@
+me\klopstock\test\Commands\Start.class
+me\klopstock\test\Test.class
+me\klopstock\test\Events\OnDeath.class
+me\klopstock\test\Events\OnClear.class
+me\klopstock\test\Events\OnMessage.class
